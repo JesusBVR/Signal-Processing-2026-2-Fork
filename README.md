@@ -11,6 +11,8 @@
 - [Material personal (muy recomendado)](#material-personal-muy-recomendado)
 - [Evaluación](#evaluación)
 - [Temario](#temario)
+- [Resúmenes](./practices/)
+  - [Opamp](./practices/opamp.md)
 - [Bibliografía](#bibliografía)
 
 # Recomendaciones:
