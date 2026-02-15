@@ -12,7 +12,7 @@
 - [Evaluación](#evaluación)
 - [Temario](#temario)
 - [Resúmenes](./practices/)
-  - [Opamp](./practices/opamp.md)
+  - [Opamp](./practices/1/opamp.md)
 - [Bibliografía](#bibliografía)
 
 # Recomendaciones:
