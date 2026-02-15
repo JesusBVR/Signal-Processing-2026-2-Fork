@@ -21,7 +21,7 @@ Para el amplificador inversor se siguió el siguiente diagrama.
 
 Como se buscaba tener una ganancia de 10, se le dió a R2 una resistencia de $68\text{k}\ohm$.
 
-Finalmente, realizadas las conexiones en la protoboard se conectó el generador de señales la fuente simetrica y un el osciloscopio para ver las señales y poder comparlas.
+Finalmente, se realizarón las conexiones en la protoboard y para poder ver las señales tanto de entrada como de salida, y así poder comparlas, se conectó el generador de señales, la fuente simétrica y un osciloscopio en las terminales correspondientes.
 
 ### **Amplificador no inversor**
 ---
