@@ -16,11 +16,11 @@ Realizar una amplificación con una ganancia de 10.
 ---
 
 ## $\color{#00FF41}\text{Metodología}$
-Se utilizó el integrado _TL082CP_ el cual consta de dos amplificadores operacionales (opamps) en su interior (Imagen ). 
+Se utilizó el integrado _TL082CP_ el cual consta de dos amplificadores operacionales (opamps) en su interior ([Figura 1](#fig-pinout)). 
 
-<div align="center" id="fig-circuito">
-  <img src="./img/" width="500" alt="Esquema del amplificador">
-  <p><b>Figura 1.</b> Diagrama del amplificador inversor.</p>
+<div align="center" id="fig-pinout">
+  <img src="./img/pinout.png" width="250" alt="Pinout del TL082CP">
+  <p><b>Figura 1.</b> Pinout del TL082CP.</p>
 </div>
 
 Uno de sus ampificadores se utilizo para crear un circuito de amplificador inversor y el otro para un circuito de amplificador no inversor.
@@ -29,7 +29,12 @@ Para ambos casos se utilizo un generador señal para la señal de entrada, confi
 
 ### **$\color{#C0C0C0}\text{Amplificador inversor}$**
 
-Para el amplificador inversor se siguió el siguiente diagrama. 
+Para el amplificador inversor se siguió el siguiente diagrama ([Figura 2](#fig-inversor)).
+
+<div align="center" id="fig-inversor">
+  <img src="./img/inversor.png" width="200" alt="Esquema del amplificador inversor">
+  <p><b>Figura 2.</b> Diagrama del amplificador inversor.</p>
+</div>
 
 Como se buscaba tener una ganancia de 10, se le dió a R2 una resistencia de $68\text{k}\ohm$.
 
