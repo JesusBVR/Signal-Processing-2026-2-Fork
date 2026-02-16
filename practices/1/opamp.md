@@ -12,9 +12,11 @@ El Amplificador Operacional (OpAmp) es un dispositivo electrónico de alta ganan
 Físicamente, un OpAmp es un amplificador que consta de dos entradas (inversora y no inversora) y una salida. Se caracteriza por buscar el "ideal" teórico: una impedancia de entrada infinita (no consume corriente), una impedancia de salida de cero ohms y una ganancia de lazo abierto extremadamente alta. En esta práctica, se utiliza el TL082CP para configurar dos etapas fundamentales: la inversora y la no inversora, donde la ganancia final ($A$) depende exclusivamente de la relación entre las resistencias externas conectadas al circuito.
 
 Para un amplificador inversor, la relación es:
+
 $$V_{out} = AV_{in} = -\frac{R_N}{R_1}V_{in}$$
 
 Mientras que, para un amplificador no inversor, está dada por:
+
 $$V_{out} = AV_{in} = \left(1+\frac{R_N}{R1}\right)V_{in}$$
 
 ---
