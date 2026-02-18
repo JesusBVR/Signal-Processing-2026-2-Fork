@@ -42,9 +42,16 @@ Para ambos casos se utilizó un generador de señal para la señal de entrada, c
 
 Para el amplificador inversor se siguió el siguiente diagrama ([Figura 2](#fig-inversor)).
 
-<div align="center" id="fig-inversor">
-  <img src="./img/inversor.png" width="200" alt="Esquema del amplificador inversor">
-  <p><b>Figura 2.</b> Diagrama del amplificador inversor.</p>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="text-align: center; width: 45%;">
+    <img src="./img/inversor.png" alt="Esquema del amplificador inversor" style="width: 100%;">
+    <figcaption><i>Diagrama del amplificador no inversor.</i></figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 45%; margin-bottom:500px;">
+    <img src="./img/conexiones.jpeg" alt="Circuito armado" style="width: 100%;">
+    <figcaption><i>Amplificador inversor montado en protoboard.</i></figcaption>
+  </figure>
 </div>
 
 Como se buscaba tener una ganancia de 10, se le dio a R2 una resistencia de $68\text{k}\ohm$.
@@ -56,7 +63,7 @@ Para este caso se siguió el diagrama que se muestra en la [Figura 3](#fig-no_in
 
 <div align="center" id="fig-no_inversor">
   <img src="./img/no_inversor.png" width="200" alt="Esquema del amplificador no inversor">
-  <p><b>Figura 3.</b> Diagrama del amplificador no inversor.</p>
+  <p><b>Figura 3.</b>Diagrama del amplificador no inversor.</p>
 </div>
 
 Como también buscábamos una amplificación de 10, se optó por utilizar una resistencia de $6.2k\ohm$ para R2.
@@ -70,3 +77,4 @@ E igual que el caso anterior, se conectaron los aparatos necesarios para realiza
 ---
 
 ## $\color{#00FF41}\text{Conclusión}$
+
