@@ -1,3 +1,4 @@
 signalProcessing-venv/
 *__pycache__/*
 *~lock*
+.python-version
