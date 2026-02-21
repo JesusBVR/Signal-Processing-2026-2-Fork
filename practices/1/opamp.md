@@ -40,39 +40,29 @@ Para ambos casos se utilizó un generador de señal para la señal de entrada, c
 
 ### **$\color{#C0C0C0}\text{Amplificador inversor}$**
 
-Para el amplificador inversor se siguió el siguiente diagrama ([Figura 2](#fig-diagramaInversor)).
+Para el amplificador inversor se siguió el siguiente diagrama ([Figura 2.a](#fig-diagramaInversor)).
 
 <table style="border: none; border-collapse: collapse;">
   <tr valign="bottom">
-    <td align="center" width="50%" style="border: none;">
+    <td align="center" width="30%" style="border: none;">
       <img src="./img/inversor.png" alt="Esquema del amplificador inversor" style="width: 100%;">
       <br>
       <sub><b>Figura 2a. </b><i>Diagrama del amplificador no inversor.</i></sub>
     </td>
-    <td align="center" width="50%" style="border: none;">
+    <td align="center" width="30%" style="border: none;">
       <img src="./img/conexiones.jpeg" alt="Circuito armado" style="width: 100%;">
       <br>
       <sub><b>Figura 2b. </b><i>Amplificador inversor montado en protoboard.</i></sub>
     </td>
   </tr>
 </table>
-
-<!-- <div id="fig-Inversor" style="display: flex; justify-content: space-around; align-items: flex-end;">
-  <figure id="fig-diagramaInversor" style="text-align: center; width: 45%;">
-    <img src="./img/inversor.png" alt="Esquema del amplificador inversor" style="width: 100%;">
-    <figcaption><b>Figura 2a. </b><i>Diagrama del amplificador no inversor.</i></figcaption>
-  </figure>
-
-  <figure id="fig-conexionInversor" style="text-align: center; width: 45%;">
-    <img src="./img/conexiones.jpeg" alt="Circuito armado" style="width: 100%;">
-    <figcaption><b>Figura 2b. </b><i>Amplificador inversor montado en protoboard.</i></figcaption>
-  </figure>
-</div> -->
-<p style="text-align: center;"><b>Figura 2. </b>Amplificador Inversor</p>
+<div style="text-align: center;">
+<p><b>Figura 2. </b>Amplificador Inversor</p>
+</div>
 
 Como se buscaba tener una ganancia de 10, se le dio a R2 una resistencia de $68\text{k}\ohm$.
 
-Finalmente, se realizaron las conexiones en la protoboard y para poder ver las señales tanto de entrada como de salida, y así poder compararlas, se conectó el generador de señales, la fuente simétrica y un osciloscopio en las terminales correspondientes ([Figura 3](#fig-conexionInversor)).
+Finalmente, se realizaron las conexiones en la protoboard y para poder ver las señales tanto de entrada como de salida, y así poder compararlas, se conectó el generador de señales, la fuente simétrica y un osciloscopio en las terminales correspondientes ([Figura 2.b](#fig-conexionInversor)).
 
 ### **$\color{#C0C0C0}\text{Amplificador no inversor}$**
 Para este caso se siguió el diagrama que se muestra en la [Figura 4](#fig-no_inversor)
