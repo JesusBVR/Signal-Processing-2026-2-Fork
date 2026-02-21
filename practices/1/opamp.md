@@ -47,12 +47,12 @@ Para el amplificador inversor se siguió el siguiente diagrama ([Figura 2.a](#fi
   <table style="border: none; border-collapse: collapse;">
     <tr valign="bottom">
       <td align="center" style="border: none;">
-        <img src="./img/inversor.png" alt="Esquema del amplificador inversor" width="25%">
+        <img src="./img/inversor.png" alt="Esquema del amplificador inversor" width="40%">
         <br>
         <sub><b>Figura 2a. </b><i>Diagrama del amplificador no inversor.</i></sub>
       </td>
       <td align="center" style="border: none;">
-        <img src="./img/conexiones.jpeg" alt="Circuito armado" style=width="25%">
+        <img src="./img/conexiones.jpeg" alt="Circuito armado" width="40%">
         <br>
         <sub><b>Figura 2b. </b><i>Amplificador inversor montado en protoboard.</i></sub>
       </td>
