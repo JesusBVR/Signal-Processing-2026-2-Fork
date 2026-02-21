@@ -44,7 +44,7 @@ Para el amplificador inversor se siguió el siguiente diagrama ([Figura 2.a](#fi
 
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
+  <table style="border: none; border-collapse: collapse;" width="70%">
     <tr valign="bottom">
       <td align="center" style="border: none;">
         <img src="./img/inversor.png" alt="Esquema del amplificador inversor" width="40%">
